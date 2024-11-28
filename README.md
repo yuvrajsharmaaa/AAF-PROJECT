@@ -27,7 +27,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/ar-real-estate.git
+git clone (https://github.com/yuvrajsharmaaa/AAF-PROJECT)
 Open the project in Unity and ensure that Vuforia SDK is integrated.
 
 Set up your Azure account:
